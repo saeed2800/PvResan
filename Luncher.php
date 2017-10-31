@@ -1,4 +1,4 @@
-<?php
+<?php 483902937:AAECsTWxcP3Kphjr3bqGBRjK8YJfweGSL8k
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
